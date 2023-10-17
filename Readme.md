@@ -18,7 +18,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Vet_clinic] <a name="about-project"></a>
 
