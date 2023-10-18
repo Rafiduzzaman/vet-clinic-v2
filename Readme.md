@@ -88,7 +88,7 @@ Run in PostGreSql 16
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Jose Luis Berbesí
+👤**Jose Luis Berbesí**
 
 - GitHub: [@githubhandle](https://github.com/jlberbesi)
 - Twitter: [@twitterhandle](https://twitter.com/imberbesi)
